@@ -1,0 +1,18 @@
+.about{
+    margin-top: 10%;
+}
+
+.image {
+    border-radius: 50%;
+    max-width: 100%;
+    height: auto;
+}
+
+.name{
+    text-align: center;
+    font-size: xx-large;
+}
+.des{
+    text-align: center;
+    font-size: medium;
+}
